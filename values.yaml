@@ -8,3 +8,4 @@ service:
   port: 80
 containerPorts:
   http: 80
+secretName: my-secret
